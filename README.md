@@ -1,2 +1,2 @@
-# Whole-app
-Whole mobile app
+# Health-app
+Health mobile app
